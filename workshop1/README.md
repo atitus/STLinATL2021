@@ -26,14 +26,14 @@ It's old math -- [Euler method](https://www.youtube.com/watch?v=v-pbGAts_Fg), in
 
 ## Agenda
 
-1. [Introduction to Dynamic Models](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/01-introduction/01-introduction.ipynb)
-2. Population Growth
-  - [Unconstrained Growth](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/02-population-growth/02-population-growth.ipynb) 
-  - [Modifying a Model - Constrained Growth](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/02-population-growth/02-modify-a-model.ipynb)
-3. Applications
-  - [SIR model for infectious disease](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/03-applications/01-SIR-model.ipynb) 
-  - [Finance](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/03-applications/02-finance.ipynb) 
-4. Monte Carlo Models
-  - [Monte Carlo](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-monte-carlo/monte-carlo.ipynb) 
-  - [Fundraiser Game](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-monte-carlo/game.ipynb) 
-5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinATL2021/blob/master/workshop1/05-python-calc/05-python-calc.ipynb)
+1. Monte Carlo Models
+  - [Monte Carlo](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/01-monte-carlo/monte-carlo.ipynb) 
+  - [Fundraiser Game](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/01-monte-carlo/game.ipynb) 
+2. [Introduction to Dynamic Models](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/02-dynamic-modeling/dynamic-modeling.ipynb)
+3. Population Growth
+  - [Unconstrained Growth](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/03-population-growth/population-growth.ipynb) 
+  - [Modifying a Model - Constrained Growth](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/03-population-growth/modify-a-model.ipynb)
+4. Applications
+  - [SIR model for infectious disease](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-applications/01-SIR-model.ipynb) 
+  - [Finance](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-applications/02-finance.ipynb) 
+5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinATL2021/blob/master/workshop1/05-python-calc/python-calc.ipynb)
