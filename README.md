@@ -20,4 +20,5 @@ Modeling is a significant component of contemporary applied math and science. Co
 4. Applications
   - [SIR model for infectious disease](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-applications/01-SIR-model.ipynb) 
   - [Finance](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-applications/02-finance.ipynb) 
+  - [Tarzan Problem (Tom Ehrensberger)](https://colab.research.google.com/github/atitus/STLinATL2021/blob/main/workshop1/04-applications/03-tarzan-problem.ipynb) 
 5. [Python as a Calculator](https://colab.research.google.com/github/atitus/STLinATL2021/blob/master/workshop1/05-python-calc/python-calc.ipynb)
